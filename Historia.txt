@@ -1,4 +1,4 @@
-Esta es la historia de Kelly Rodríguez
+	Esta es la historia de Kelly Rodríguez
 
 <<<<<<< HEAD
 Kelly Rodríguez tiene 26 años y nació en Colombia,
@@ -9,4 +9,11 @@ hoy hablaremos de su historia.
 Kelly Rodríguez tiene 25 años y nació en Colombia
 
 Hoy hablaremos de su historia. 
+<<<<<<< HEAD
 >>>>>>> 8d6401e1293eefdd18a2acae75032fe8856dc43b
+=======
+
+Juan es una loca. 
+
+Hoy Kelly aprendo mucho 
+>>>>>>> 6a17352bcf0e5663d21c07c606a225192ef7a308
