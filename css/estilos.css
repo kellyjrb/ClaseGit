@@ -1,13 +1,25 @@
 body
 {
-    color:#333;
+    color:blue;
     text-align: left;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 #container
 {
+    
     width: 70%;
-    padding: 1em;
+    padding:1em;
     text-align: left;
-    border: 1px solid #DDD1;
+    border: 1px solid #000;
+    margin: 10px auto;
+    color: red;
+    border-radius: 10px;
+}
+
+#container h1, 
+{
+    font-size: 20px;
 }
